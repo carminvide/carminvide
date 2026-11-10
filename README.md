@@ -1,4 +1,4 @@
-# Hi there
+# Hi there!
 
 I am a Computer Engineering student at McGill University (expected Dec 2026) with a focus on full-stack software development and natural language processing.
 
