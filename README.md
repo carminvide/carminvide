@@ -13,10 +13,10 @@ I am a Computer Engineering student at McGill University (expected Dec 2026) wit
 * **Infrastructure & Tools:** Git, Docker, Kubernetes, Jira, Confluence, VS Code, IntelliJ
 
 ###  Projects
-* ** Code-to-Asset Dependency Analyzer:** Extracted dependency logic using PyYAML and unityparser, visualizing bottlenecks with Cytoscape.js and building graph-to-LLM pipelines.
+* **Code-to-Asset Dependency Analyzer:** Extracted dependency logic using PyYAML and unityparser, visualizing bottlenecks with Cytoscape.js and building graph-to-LLM pipelines.
 <!-- * * **[Link to NLP Repo] - Zero-Shot Cross-Lingual Transfer Models:** Fine-tuned XLM-RoBERTa for sentiment analysis across 5 languages, evaluating empirical F1 scores and cross-lingual transfer gaps. -->
-* ** Full-Stack Game Store:** Built a complete online storefront using Java, Spring, React, and PostgreSQL with a robust persistence layer.
-* ** Crack Detector:** Convolutional Neural Network built with PyTorch and scikit-learn to detect structural concrete cracks, wrapped in a React interface.
+* **Full-Stack Game Store:** Built a complete online storefront using Java, Spring, React, and PostgreSQL with a robust persistence layer.
+* **Crack Detector:** Convolutional Neural Network built with PyTorch and scikit-learn to detect structural concrete cracks, wrapped in a React interface.
 
 ### 📫 Let's Connect
 * [LinkedIn](https://linkedin.com/in/carmin-vide)
