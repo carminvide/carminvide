@@ -21,4 +21,4 @@ I am a Computer Engineering student at McGill University (expected Dec 2026) wit
 ### Let's Connect
 * [LinkedIn](https://linkedin.com/in/carmin-vide)
 * [Beli](https://beliapp.co/profile/carminvide)
-* Reach out at: carminvide@hotmail.fr
+* carminvide@hotmail.fr
